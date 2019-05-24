@@ -1,31 +1,31 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Arseny Farley | Project Planner
+    <title>Matt Farley | Project Planner
     </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta property="og:title" content="Arseny Farley">
-    <meta name="author" content="Arseny Farley">
+    <meta property="og:title" content="Matt Farley">
+    <meta name="author" content="Matt Farley">
     <meta property="og:locale" content="en_US">
-    <meta name="description" content="Designer, Full-stack Developer &amp; Human">
-    <meta property="og:description" content="Designer, Full-stack Developer &amp; Human">
-    <link rel="canonical" href="http://Arsenyfarley.ca">
-    <meta property="og:url" content="http://Arsenyfarley.ca">
-    <meta property="og:site_name" content="Arseny Farley">
-    <meta property="og:image" content="http://Arsenyfarley.ca/img/og_thumbnail.png">
+    <meta name="description" content="Designer, Front-end Developer &amp; Mentor">
+    <meta property="og:description" content="Designer, Front-end Developer &amp; Mentor">
+    <link rel="canonical" href="http://mattfarley.ca">
+    <meta property="og:url" content="http://mattfarley.ca">
+    <meta property="og:site_name" content="Matt Farley">
+    <meta property="og:image" content="http://mattfarley.ca/img/og_thumbnail.png">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="">
-    <meta name="twitter:creator" content="@farleyArsenyers">
-    <meta name="twitter:title" content="Arseny Farley">
-    <meta name="twitter:description" content="Designer, Full-stack Developer &amp; Human. I design and code beautifully simple things, and I love what I do.">
-    <meta name="twitter:image" content="http://Arsenyfarley.ca/img/og_thumbnail.png">
-    <meta name="twitter:image:alt" content="Arseny Farley">
+    <meta name="twitter:creator" content="@farleymatters">
+    <meta name="twitter:title" content="Matt Farley">
+    <meta name="twitter:description" content="Designer, Front-end Developer &amp; Mentor. I design and code beautifully simple things, and I love what I do.">
+    <meta name="twitter:image" content="http://mattfarley.ca/img/og_thumbnail.png">
+    <meta name="twitter:image:alt" content="Matt Farley">
     <link href="img/favicon-32.png" rel="shortcut icon" type="image/png">
     <link rel="stylesheet" href="css/main.css">
     <script type="application/ld+json">
-      {"@context":"http://schema.org","@type":"WebSite","name":"Arseny Farley","headline":"Arseny Farley","author":{"@type":"Person","name":"Arseny Farley"},"description":"Designer, Full-stack Developer &amp; Human","url":"http://Arsenyfarley.ca/"}
+      {"@context":"http://schema.org","@type":"WebSite","name":"Matt Farley","headline":"Matt Farley","author":{"@type":"Person","name":"Matt Farley"},"description":"Designer, Front-end Developer &amp; Mentor","url":"http://mattfarley.ca/"}
       
     </script>
     <script defer="" src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
@@ -33,7 +33,7 @@
   <body>
     <nav class="navbar is-transparent is-planner">
       <div class="container">
-        <div class="navbar-brand"><a class="navbar-item" href="/"><img src="img/mf-logo.svg" alt="Arseny Farley | Designer, Full-stack Developer &amp; Human" height="48"></a></div>
+        <div class="navbar-brand"><a class="navbar-item" href="/"><img src="img/mf-logo.svg" alt="Matt Farley | Designer, Front-end Developer &amp; Mentor" height="48"></a></div>
         <div class="navbar-menu" id="navMenu">
           <div class="navbar-end">
             <div class="navbar-item">
